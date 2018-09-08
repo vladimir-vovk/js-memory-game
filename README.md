@@ -2,4 +2,4 @@ Simple memory game with javascript based on the exellent tutorial by [Marina Fer
 
 ![screen](./memory-game.png)
 
-[Play game!](https://vladimir.vovk.in/memory-game/memory-game.html)
+[Play the game!](https://vladimir.vovk.in/memory-game/memory-game.html)
